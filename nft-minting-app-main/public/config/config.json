@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xc835F68BF571CBCC57ccE13b7EAE6C1Ba153657f",
+  "SCAN_LINK": "https://etherscan.io/address/0xc835F68BF571CBCC57ccE13b7EAE6C1Ba153657f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "StandWithUkraine",
+  "SYMBOL": "SWU",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/standwithukraine-l3wvyc9cof",
+  "SHOW_BACKGROUND": true
+}
